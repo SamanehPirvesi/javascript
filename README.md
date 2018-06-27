@@ -1,0 +1,1 @@
+simple examples about java script
